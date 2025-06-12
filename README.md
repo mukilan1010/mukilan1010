@@ -31,11 +31,13 @@
 
 
 ### 🎨 Frontend <img height="20" src="https://img.icons8.com/fluency/48/web.png" />
+<p align="left">
 <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/css3.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/tailwindcss.png" />
+</p>
 
 ### 🖥️ Backend & Databases <img height="20" src="https://img.icons8.com/fluency/48/server.png" />
 <p align="left">
@@ -47,9 +49,11 @@
 
 
 ### 🧰 Dev Tools & Platforms <img height="20" src="https://img.icons8.com/fluency/48/tools.png" />
+<p align="left">
 <img height="40" src="https://img.icons8.com/color/48/000000/git.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
 <img height="40" src="https://www.svgrepo.com/show/354202/postman-icon.svg" />
+</p>
 
 ---
 
@@ -76,6 +80,8 @@ A responsive web application to generate bills, track expenses, and print invoic
 - Built with Node.js, Express, and MongoDB
 - Includes customer database, PDF export, and invoice tracking
 - Ideal for small businesses and freelancers
+
+---
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mukilan291024?theme=dark&font=Marcellus&ext=contest)
