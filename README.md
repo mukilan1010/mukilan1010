@@ -22,11 +22,14 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages <img height="20" src="https://img.icons8.com/fluency/48/code.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img height="40" src="https://img.icons8.com/?size=160&id=mfkStOwP4EC0&format=png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png" />
-<img height="40" src="https://img.icons8.com/?size=96&id=40669&format=png" />
+<p align="left">
+  <img height="40" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+  <img height="40" src="https://img.icons8.com/?size=160&id=mfkStOwP4EC0&format=png" />
+  <img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
+  <img height="40" src="https://img.icons8.com/color/48/000000/python.png" />
+  <img height="40" src="https://img.icons8.com/?size=96&id=40669&format=png" />
+</p>
+
 
 ### 🎨 Frontend <img height="20" src="https://img.icons8.com/fluency/48/web.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/react-native.png" />
