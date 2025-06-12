@@ -48,7 +48,7 @@
 </p>
 
 
-### 🧰 Dev Tools & Platforms <img height="20" src="https://img.icons8.com/fluency/48/tools.png" />
+### 🧰 Dev Tools & Platforms
 <p align="left">
 <img height="40" src="https://img.icons8.com/color/48/000000/git.png" />
 <img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" />
