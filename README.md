@@ -7,11 +7,7 @@ Final year @ St. Joseph's Institute of Technology
 
 
 - Social Presence
-<br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukilan-n-90a8ab25a/)
-<br />
-
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/mukilan291024/)
+ <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mukilan-n-90a8ab25a/)<br /> [<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/mukilan291024/)
 
 
 
