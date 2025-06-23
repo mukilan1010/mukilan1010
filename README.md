@@ -58,6 +58,14 @@
 ---
 
 
+### LeetCode Profile
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mukilan291024?theme=dark&font=Marcellus&ext=contest)
+
+---
+[![Mukilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukilan1010&bg_color=030303&color=fdf7fc&line=9e4c98&point=f5f4f4&area=true&hide_border=true)](https://github.com/mukilan1010/)
+
+
 ## 💼 Featured Projects
 
 ### 🖼️ Meme Generator  
@@ -83,10 +91,4 @@ A responsive web application to generate bills, track expenses, and print invoic
 
 ---
 
-### LeetCode Profile
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/mukilan291024?theme=dark&font=Marcellus&ext=contest)
-
----
-[![Mukilan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mukilan1010&bg_color=030303&color=fdf7fc&line=9e4c98&point=f5f4f4&area=true&hide_border=true)](https://github.com/mukilan1010/)
 
